@@ -14,3 +14,4 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 Happy coding!
 
 Railsを学ぼう 3章　
+Rubyを学ぼう１章〜８章
